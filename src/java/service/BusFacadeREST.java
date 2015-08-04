@@ -21,7 +21,7 @@ import org.mapmybus.track.entity.Bus;
 
 /**
  *
- * @author z6kgn
+ * @author z6KPG
  */
 @Stateless
 @Path("org.mapmybus.track.entity.bus")
